@@ -33,10 +33,10 @@
   resolved "https://registry.yarnpkg.com/@braintree/sanitize-url/-/sanitize-url-3.1.0.tgz#8ff71d51053cd5ee4981e5a501d80a536244f7fd"
   integrity sha512-GcIY79elgB+azP74j8vqkiXz8xLFfIzbQJdlwOPisgbKT00tviJQuEghOXSMVxJ00HoYJbGswr4kcllUc4xCcg==
 
-"@clr/icons@^4.0.8":
-  version "4.0.8"
-  resolved "https://registry.yarnpkg.com/@clr/icons/-/icons-4.0.8.tgz#3ca645ff7eaeb25db6f5cd35ccf55f06f92c4c28"
-  integrity sha512-zrr47GgmK+AhM6yHG1GwXn8rsqpdnJVtr6NaJP8CMDfpwq+GvJY0JB8XNPE/d/Ujg8/RQeKwVYzsqmUltBSzoQ==
+"@clr/icons@^5.0.2":
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/@clr/icons/-/icons-5.0.2.tgz#a5aa905f56001d791b2aabf1334b08b8822df3cf"
+  integrity sha512-G6B2aXBoamAkGCI4cwEUXEJ8QoAaNf3K1MDg4JbdDADIjpFrhTq7w/xG5whQmguM2BclKS/XGm0SBUeaGsT/jA==
 
 "@develar/schema-utils@~2.6.5":
   version "2.6.5"
